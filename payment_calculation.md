@@ -8,7 +8,7 @@ The fees payable to Contractor in exchange for the Services will be calculated a
 
 ### Contractor will be paid an amount of money in exchange for completing a job.
 
-Contractor will be paid the {{lump sum}} {{gst}} to complete the Services.
+Contractor will be paid the {{lump sum}} {{gst}} to complete the Work Scope.
 
 ### Contractor will be paid the fees set out in the clause table.
 
