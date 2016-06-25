@@ -1,7 +1,7 @@
 ## Service access
 
 
-| | 
+|Service Licence | 
 |:------------- |:-------------
 | Parties | Contractor grants to Customer 
 | Subject | Services
