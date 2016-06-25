@@ -12,14 +12,14 @@ Contractor will be paid the {{lump sum}} {{gst}} to complete the Work Scope.
 
 ### Contractor will be paid the fees described in the Work Scope.
 
-Customer will pay Contractor the fees set out in the Work Scope.
+Customer will pay Contractor the dollar amount set out in the Work Scope.
 
 ### Contractor will be paid the amount of money described on a web page.
 
-Customer will pay Contractor the fees set out at {{fees url}}.
+Customer will pay Contractor the dollar amount(s) set out at {{fees url}}.
 
 ### Contractor will be paid the amounts set out in a table.
 
-Customer will pay Contractor the fees set out in the table below.
+Customer will pay Contractor the amounts set out in the table below.
 
 {{fees table}}
