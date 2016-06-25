@@ -4,7 +4,7 @@ This topic makes the start time and the end time of the agreement clear. Select 
 
 ### Contractor will deliver Services for a number of days, months or years.
 
-Contractor will provide the Services to Customer {{period}}, unless the Agreement is terminated under another provision of the Agreement.
+Contractor will provide the Services to Customer for {{period}}, unless the Agreement is terminated under another provision of the Agreement.
 
 ### Contractor will provide the Services for as long as it takes to completes the Work Scope.
 
