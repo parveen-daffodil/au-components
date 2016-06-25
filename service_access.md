@@ -1,7 +1,6 @@
 ## Service access
 
 
-| Tables        | Are           
 |:------------- |:-------------
 | Parties | Contractor grants to Customer 
 | Subject | Services
