@@ -1,6 +1,6 @@
 ## Service licence 
 
-|| 
+|Characteristic| Value
 |:------------- |:-------------
 | Parties | Contractor grants to Customer 
 | Subject | Services
