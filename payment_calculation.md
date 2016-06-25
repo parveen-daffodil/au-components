@@ -2,13 +2,13 @@
 
 This topic describes how to figure out the amount that the customer will pay the contractor for the services.
 
-### Contractor is paid based on time spent on the Services.
+### Contractor is paid based on the time spent on the Services.
 
 The fees payable to Contractor in exchange for the Services will be calculated at {{payment rate}}.
 
-### Contractor will be paid an amount of money in exchange for doing an entire job.
+### Contractor will be paid an amount of money in exchange for completing a job.
 
-Contractor will be paid the {{dollar amount}} in exchange for the Services.
+Contractor will be paid the {{lump sum}} {{gst}} to complete the Services.
 
 ### Contractor will be paid the fees set out in the clause table.
 
