@@ -14,6 +14,6 @@ Contractor will provide the Services to Customer until Contractor completes the 
 
 Contractor will provide the Services to Customer until the Agreement is cancelled.
 
-### Agreement laste for a short period but renews regularly.
+### Agreement lasts for a short period but renews regularly.
 
 The Agreement will bind the parties for {{period}}.  The Agreement will continue to automatically renew for the Term unless a party to the Agreement gives the other party {{period}} notice before the end of a Term.
