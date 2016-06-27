@@ -6,6 +6,8 @@ This topic makes the start time and the end time of the agreement clear. Select 
 
 Contractor will provide the Services to Customer for {{period}}, unless the Agreement is cancelled under another provision of the Agreement.
 
+`jurisdiction` US
+
 ### Contractor will provide the Services for as long as it takes to completes the Work Scope.
 
 Contractor will provide the Services to Customer until Contractor completes the Work Scope.
