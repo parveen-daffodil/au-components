@@ -1,5 +1,7 @@
 ## Confidentiality
 
+This topic covers the parties' confidentiality requirements. 
+
 **General obligation of confidentiality**
 
 - Confidential Information will be disclosed by Customer to Contractor at the discretion of the Customer.
