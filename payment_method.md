@@ -1,6 +1,6 @@
 ## Payment method
 
-This topic clarifies _when / how_ the customer will pay the contractor for the services.
+This topic clarifies _when and how_ the customer will pay the contractor for the services.
 
 ### Contractor will invoice Customer for the Services while the Services continue.
 

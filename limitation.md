@@ -1,10 +1,8 @@
-## Limitation of liability
+## What parties can sue for
 
 This topic sets out how much the contractor will **compensate** the customer for if something goes wrong with the services.
 
-For example, if the contractor builds an app for a customer that doesn’t work, how much can the customer sue the contractor for?
-
-This is a crucial part of the contract to get right – be careful!
+For example, if a contractor builds an app for a customer that doesn’t work, how much can the customer sue the contractor for?
 
 ### Contractor will limit the amount it can be sued for by the Customer to the smallest possible amount.
 
