@@ -12,4 +12,4 @@ Usually the **first option** will make sense.
 
 ### {{party 1}} can use the Contribtued IP however it wants
 
-{{party 2}} grants {{party 1}} an [restrictive licence] (https://github.com/lawpatch/au-ip_license/blob/6bdbc04663123da69272e80d797c8472d7ffa2eb/au-license_ip_restrictive.md) to use, copy, modify and adapt the Contribtued IP for any purpose.
+{{party 2}} grants {{party 1}} an [expansive licence] (https://github.com/lawpatch/au-ip_license/blob/6bdbc04663123da69272e80d797c8472d7ffa2eb/au-license_ip_expansive.md) to use, copy, modify and adapt the Contribtued IP for any purpose.
