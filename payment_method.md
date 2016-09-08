@@ -31,4 +31,4 @@ both invoices to be paid by {{party 2}} with {{payment mechanism}} within {{paym
 ### A Work Scope document describes the payment method.
 
 - {{party 2}} will pay {{party 1}} the fees on the dates described in the Work Scope.
-- {{party 2}} will pay {{party 1}} with {{payment mechanism}}
+- {{party 2}} will pay {{party 1}} with {{payment mechanism}}.
