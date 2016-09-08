@@ -23,3 +23,7 @@ The fees payable to {{party 1}} in exchange for the Services will be calculated 
 {{party 2}} will pay {{party 1}} the amounts set out in the table below.
 
 {{fees table}}
+
+### Payment for work under Work Order
+
+For Services performed under a Work Order, {{party 2}} will pay {{party 1}} the amount specified in the Work Order.
