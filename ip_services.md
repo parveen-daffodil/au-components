@@ -1,6 +1,6 @@
 ## Intellectual property
 
-This topic makes clear which party owns the [intellectual property](https://github.com/lawpatch/dictionary/blob/master/intellectual_property.md) (sometimes known as IP) in the product delivered by {{party 1}} to {{party 2}}. IP is often a **big source of value**, so it is important to be clear about ownership and use of IP.  It is worth carefully considering which of the options below works best for your circumstances.
+This topic makes clear which party owns the [intellectual property](https://github.com/lawpatch/dictionary/blob/master/intellectual_property.md) (sometimes known as IP) in the product created by {{party 1}}. IP is often a **big source of value**, so it is important to be clear about ownership and use of IP.
 
 There are 2 options.
 
