@@ -12,7 +12,7 @@ This topic allows you to state the length of time that services are provided for
 
 ### Agreement lasts for a short period but renews regularly.
 
-The Agreement will bind the parties for the Term with rolling term renewals. At the end of each Term, the Agreement will automatically renew for another Term unless a party to the Agreement gives the other party {{notice period}} notice. In case of such notice the Agreement will continue to the end of the Term when notice was given, but will not roll over for a new Term.
+The Agreement will bind the parties for the Term with rolling term renewals. {{party 1}} will provide the Servies to {{party 2}} for the Term. At the end of each Term, the Agreement will automatically renew for another Term unless a party to the Agreement gives the other party {{notice period}} notice. In case of such notice the Agreement will continue to the end of the Term when notice was given, but will not roll over for a new Term.
 
 ### {{party 1}} will provide the Services until the agreement is cancelled.
 
