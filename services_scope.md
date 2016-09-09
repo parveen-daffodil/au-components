@@ -1,6 +1,6 @@
 ## The Services
 
-This topic covers what {{party 1}} is agreeing to do for {{party 2}}. It's important to be very clear here, so you know what responsibilities your business is taking on.
+This topic covers what {{party 1}} is agreeing to do for {{party 2}}. It's important to be clear about the responsibilities that {{party 1}} is taking on.
 
 Can you describe everything {{party 1}} will do for {{party 2}} by filling in the definition of Services in this Agreement? If so, use the **first option**. Be sure to fill in the definition of Services with enough detail.
 
