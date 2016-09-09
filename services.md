@@ -2,7 +2,7 @@
 
 This topic covers what {{party 1}} is agreeing to do for {{party 2}}. It's important to be very clear here, so you know what responsibilities your business is taking on.
 
-Can you describe everything {{party 1}} will do for {{party 2}} by filling in the definition of Services in this Agreement? IF so, use the **first option**. Be sure to fill in the definition of Services with enough detail.
+Can you describe everything {{party 1}} will do for {{party 2}} by filling in the definition of Services in this Agreement? If so, use the **first option**. Be sure to fill in the definition of Services with enough detail.
 
 Do you need a separate document (a Work Scope) to describe what {{party 1}} has to do? If so, use the **second option**. If you choose this option, you can just fill in the definition of Services in this agreement with a general, basic description or state that the Services are described in the Work Scope.
 
