@@ -1,4 +1,4 @@
-## The Services
+## Supply of Services
 
 This topic covers what {{party 1}} is agreeing to do for {{party 2}}. It's important to be clear about the responsibilities that {{party 1}} is taking on.
 
