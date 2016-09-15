@@ -2,9 +2,9 @@
 
 This topic clarifies **when** and **how** {{party 2}} will pay {{party 1}} for the services.
 
-### There are regular invoices.
+### Customer will be issued an invoice for payment
 
-- {{party 1}} will invoice {{party 2}} for the Services rendered during the previous {{billing cycle period}}.
+- {{party 1}} will invoice {{party 2}} for the Services rendered {{repeating invoice}}.
 - {{party 2}} will pay the invoice within {{payment terms}} of receiving the invoice.
 - {{party 2}} will pay the invoice with {{payment mechanism}}.
 
@@ -32,7 +32,7 @@ both invoices to be paid by {{party 2}} with {{payment mechanism}} within {{paym
 
 - {{party 2}} will pay {{party 1}} the fees on the dates described in the Work Scope.
 - {{party 2}} will pay {{party 1}} with {{payment mechanism}}.
-- 
+
 ### A Work Order describes the payment method
 
 For Services performed under a Work Order, {{party 2}} will pay {{party 1}} on the dates, and by the methods, set out in the Work Order.
